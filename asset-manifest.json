@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gmSystem/static/css/main.4d5bf0ab.css",
+    "main.js": "/gmSystem/static/js/main.447a098d.js",
+    "static/js/787.97b87eac.chunk.js": "/gmSystem/static/js/787.97b87eac.chunk.js",
+    "static/media/lg2.jpg": "/gmSystem/static/media/lg2.53f2ee97c19d8ca8f97e.jpg",
+    "static/media/lg1.jpg": "/gmSystem/static/media/lg1.e398d63c9849456b692e.jpg",
+    "static/media/lg4.jpg": "/gmSystem/static/media/lg4.0fa68e51dc759cd56536.jpg",
+    "static/media/lg3.jpg": "/gmSystem/static/media/lg3.0318d05abe178304bda1.jpg",
+    "static/media/logo.svg": "/gmSystem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gmSystem/index.html",
+    "main.4d5bf0ab.css.map": "/gmSystem/static/css/main.4d5bf0ab.css.map",
+    "main.447a098d.js.map": "/gmSystem/static/js/main.447a098d.js.map",
+    "787.97b87eac.chunk.js.map": "/gmSystem/static/js/787.97b87eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5bf0ab.css",
+    "static/js/main.447a098d.js"
+  ]
+}
